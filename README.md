@@ -20,3 +20,12 @@ It includes data cleaning, analysis, and interactive visualizations.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+Goal: Analyze Nifty50 stocks and visualize return & volatility to compare performance/risk.
+
+Users: Beginner investor / analyst
+
+Key KPIs: Daily Return, Cumulative Return, Volatility (Std Dev), Moving Average (if used)
+
+Success criteria: User can filter by stock/date and instantly see risk-return insights.
+
